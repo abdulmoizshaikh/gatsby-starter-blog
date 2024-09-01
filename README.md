@@ -1,3 +1,10 @@
+## Development Links
+
+
+chatgpt reference thread: https://chatgpt.com/c/1d7eec02-ddc7-41d3-a6a5-ff6812ae48bf
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
